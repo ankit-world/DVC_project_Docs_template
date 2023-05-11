@@ -32,3 +32,5 @@ dvc init
 ```
 
 ### STEP 06- commit and push the changes to the remote repository
+git commit -m "changes"
+git push origin main
